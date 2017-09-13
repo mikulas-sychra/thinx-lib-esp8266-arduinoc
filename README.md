@@ -1,6 +1,6 @@
 # THiNX Lib (ESP)
 
-An Arduino/ESP8266 library to wrap client for OTA updates and RTM (Remote Things Management) based on THiNX platform.
+An Arduino/ESP8266 library to wrap client for OTA updates and RTM [Remote Things Management](https://rtm.thinx.cloud) based on [THiNX OpenSource IoT platform](https://thinx.cloud).
 
 # Success log (library is not finished)
 
